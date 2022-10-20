@@ -1,5 +1,7 @@
 # pwm-moisture-sensor
 
+![moisture sensor image](/images/sensor.png)
+
 ## Requirements
 - PWM pin on at least 1 MHz microcontroller
 - ADC input pin to read sensor value
